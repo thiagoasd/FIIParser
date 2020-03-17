@@ -19,7 +19,7 @@
 		<property name="hibernate.hbm2ddl.auto">create-drop</property>
 
 		<!-- add resources here -->
-		<mapping class="parser.Fundo"/>
+		<mapping class="parser.Cotacao"/>
 	</session-factory>
 			
 </hibernate-configuration>
